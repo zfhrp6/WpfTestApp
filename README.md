@@ -1,0 +1,2 @@
+just showing Windows clipboard
+
